@@ -1,0 +1,430 @@
+******************INSANLARIN SIRASI**************
+piyadeler :  1000 30 5 52 100
+okcular :  1000 40 10 26 80
+suvariler :  1000 50 7 39 120
+kusatma_makineleri :  1000 100 0 65 150
+ :  0 0 0 0 0
+
+Insanlarin atagi : 220000
+Insanlarin defansi : 182000
+
+
+ork_dovusculeri :  1000 45 8 25 100
+mizrakcilar :  1000 58 5 20 90
+varg_binicileri :  1000 71 6 35 130
+troller :  1000 91 5 40 200
+ :  0 0 0 0 0
+
+Orklarin atagi : 265000
+Orklarin defansi : 120000
+
+
+
+
+Asil vurulacak hasar: 100000
+
+
+**************INSANLAR  SALDIRDI*******************
+
+ork_dovusculeri :  1000 45 8 25 79
+mizrakcilar :  1000 58 5 20 73
+varg_binicileri :  1000 71 6 35 100
+troller :  1000 91 5 40 166
+ :  0 0 0 0 0
+
+
+*************TUR BITTI**************
+
+******************ORGLARIN SIRASI**************
+ork_dovusculeri :  1000 45 8 25 79
+mizrakcilar :  1000 58 5 20 73
+varg_binicileri :  1000 71 6 35 100
+troller :  1000 91 5 40 166
+ :  0 0 0 0 0
+
+Orklarin atagi : 265000
+Orklarin defansi : 120000
+piyadeler :  1000 30 5 52 100
+okcular :  1000 40 10 26 80
+suvariler :  1000 50 7 39 120
+kusatma_makineleri :  1000 100 0 65 150
+ :  0 0 0 0 0
+
+Insanlarin atagi : 220000
+Insanlarin defansi : 182000
+
+
+
+
+
+
+Asil vurulacak hasar: 83000
+
+
+**************ORGLAR SALDIRDI*******************
+
+piyadeler :  1000 30 5 52 76
+okcular :  1000 40 10 26 68
+suvariler :  1000 50 7 39 102
+kusatma_makineleri :  1000 100 0 65 120
+ :  0 0 0 0 0
+
+
+*************TUR BITTI**************
+
+******************INSANLARIN SIRASI**************
+piyadeler :  1000 30 5 52 76
+okcular :  1000 40 10 26 68
+suvariler :  1000 50 7 39 102
+kusatma_makineleri :  1000 100 0 65 120
+ :  0 0 0 0 0
+
+Insanlarin atagi : 220000
+Insanlarin defansi : 182000
+
+
+ork_dovusculeri :  1000 45 8 25 79
+mizrakcilar :  1000 58 5 20 73
+varg_binicileri :  1000 71 6 35 100
+troller :  1000 91 5 40 166
+ :  0 0 0 0 0
+
+Orklarin atagi : 265000
+Orklarin defansi : 120000
+
+
+
+
+Asil vurulacak hasar: 100000
+
+
+**************INSANLAR  SALDIRDI*******************
+
+ork_dovusculeri :  1000 45 8 25 58
+mizrakcilar :  1000 58 5 20 56
+varg_binicileri :  1000 71 6 35 70
+troller :  1000 91 5 40 132
+ :  0 0 0 0 0
+
+
+*************TUR BITTI**************
+
+******************ORGLARIN SIRASI**************
+ork_dovusculeri :  1000 45 8 25 58
+mizrakcilar :  1000 58 5 20 56
+varg_binicileri :  1000 71 6 35 70
+troller :  1000 91 5 40 132
+ :  0 0 0 0 0
+
+Orklarin atagi : 265000
+Orklarin defansi : 120000
+piyadeler :  1000 30 5 52 76
+okcular :  1000 40 10 26 68
+suvariler :  1000 50 7 39 102
+kusatma_makineleri :  1000 100 0 65 120
+ :  0 0 0 0 0
+
+Insanlarin atagi : 220000
+Insanlarin defansi : 182000
+
+
+
+
+
+
+Asil vurulacak hasar: 83000
+
+
+**************ORGLAR SALDIRDI*******************
+
+piyadeler :  1000 30 5 52 52
+okcular :  1000 40 10 26 56
+suvariler :  1000 50 7 39 84
+kusatma_makineleri :  1000 100 0 65 90
+ :  0 0 0 0 0
+
+
+*************TUR BITTI**************
+
+******************INSANLARIN SIRASI**************
+piyadeler :  1000 30 5 52 52
+okcular :  1000 40 10 26 56
+suvariler :  1000 50 7 39 84
+kusatma_makineleri :  1000 100 0 65 90
+ :  0 0 0 0 0
+
+Insanlarin atagi : 220000
+Insanlarin defansi : 182000
+
+
+ork_dovusculeri :  1000 45 8 25 58
+mizrakcilar :  1000 58 5 20 56
+varg_binicileri :  1000 71 6 35 70
+troller :  1000 91 5 40 132
+ :  0 0 0 0 0
+
+Orklarin atagi : 265000
+Orklarin defansi : 120000
+
+
+
+
+Asil vurulacak hasar: 100000
+
+
+**************INSANLAR  SALDIRDI*******************
+
+ork_dovusculeri :  1000 45 8 25 37
+mizrakcilar :  1000 58 5 20 39
+varg_binicileri :  1000 71 6 35 40
+troller :  1000 91 5 40 98
+ :  0 0 0 0 0
+
+
+*************TUR BITTI**************
+
+******************ORGLARIN SIRASI**************
+ork_dovusculeri :  1000 40 8 22 37
+mizrakcilar :  1000 52 5 18 39
+varg_binicileri :  1000 63 6 31 40
+troller :  1000 81 5 36 98
+ :  0 0 0 0 0
+
+Orklarin atagi : 236000
+Orklarin defansi : 107000
+piyadeler :  1000 27 5 46 52
+okcular :  1000 36 10 23 56
+suvariler :  1000 45 7 35 84
+kusatma_makineleri :  1000 90 0 58 90
+ :  0 0 0 0 0
+
+Insanlarin atagi : 198000
+Insanlarin defansi : 162000
+
+
+
+
+
+
+Asil vurulacak hasar: 73999
+
+
+**************ORGLAR SALDIRDI*******************
+
+piyadeler :  1000 27 5 46 30
+okcular :  1000 36 10 23 45
+suvariler :  1000 45 7 35 68
+kusatma_makineleri :  1000 90 0 58 63
+ :  0 0 0 0 0
+
+
+*************TUR BITTI**************
+
+******************INSANLARIN SIRASI**************
+piyadeler :  1000 27 5 46 30
+okcular :  1000 36 10 23 45
+suvariler :  1000 45 7 35 68
+kusatma_makineleri :  1000 90 0 58 63
+ :  0 0 0 0 0
+
+Insanlarin atagi : 198000
+Insanlarin defansi : 162000
+
+
+ork_dovusculeri :  1000 40 8 22 37
+mizrakcilar :  1000 52 5 18 39
+varg_binicileri :  1000 63 6 31 40
+troller :  1000 81 5 36 98
+ :  0 0 0 0 0
+
+Orklarin atagi : 236000
+Orklarin defansi : 107000
+
+
+
+
+Asil vurulacak hasar: 91000
+
+
+**************INSANLAR  SALDIRDI*******************
+
+ork_dovusculeri :  1000 40 8 22 18
+mizrakcilar :  1000 52 5 18 23
+varg_binicileri :  1000 63 6 31 13
+troller :  1000 81 5 36 67
+ :  0 0 0 0 0
+
+
+*************TUR BITTI**************
+
+******************ORGLARIN SIRASI**************
+ork_dovusculeri :  1000 40 8 22 18
+mizrakcilar :  1000 52 5 18 23
+varg_binicileri :  1000 63 6 31 13
+troller :  1000 81 5 36 67
+ :  0 0 0 0 0
+
+Orklarin atagi : 236000
+Orklarin defansi : 107000
+piyadeler :  1000 27 5 46 30
+okcular :  1000 36 10 23 45
+suvariler :  1000 45 7 35 68
+kusatma_makineleri :  1000 90 0 58 63
+ :  0 0 0 0 0
+
+Insanlarin atagi : 198000
+Insanlarin defansi : 162000
+
+
+
+
+
+
+Asil vurulacak hasar: 73999
+
+
+**************ORGLAR SALDIRDI*******************
+
+piyadeler :  1000 27 5 46 8
+okcular :  1000 36 10 23 34
+suvariler :  1000 45 7 35 52
+kusatma_makineleri :  1000 90 0 58 36
+ :  0 0 0 0 0
+
+
+*************TUR BITTI**************
+
+******************INSANLARIN SIRASI**************
+piyadeler :  1000 27 5 46 8
+okcular :  1000 36 10 23 34
+suvariler :  1000 45 7 35 52
+kusatma_makineleri :  1000 90 0 58 36
+ :  0 0 0 0 0
+
+Insanlarin atagi : 198000
+Insanlarin defansi : 162000
+
+
+ork_dovusculeri :  1000 40 8 22 18
+mizrakcilar :  1000 52 5 18 23
+varg_binicileri :  1000 63 6 31 13
+troller :  1000 81 5 36 67
+ :  0 0 0 0 0
+
+Orklarin atagi : 236000
+Orklarin defansi : 107000
+
+
+
+
+Asil vurulacak hasar: 91000
+
+
+**************INSANLAR  SALDIRDI*******************
+
+ork_dovusculeri :  0 40 8 22 0
+mizrakcilar :  1000 52 5 18 7
+varg_binicileri :  0 63 6 31 0
+troller :  1000 81 5 36 36
+ :  0 0 0 0 0
+
+
+*************TUR BITTI**************
+
+******************ORGLARIN SIRASI**************
+ork_dovusculeri :  0 40 8 22 0
+mizrakcilar :  1000 52 5 18 7
+varg_binicileri :  0 63 6 31 0
+troller :  1000 81 5 36 36
+ :  0 0 0 0 0
+
+Orklarin atagi : 133000
+Orklarin defansi : 54000
+piyadeler :  1000 27 5 46 8
+okcular :  1000 36 10 23 34
+suvariler :  1000 45 7 35 52
+kusatma_makineleri :  1000 90 0 58 36
+ :  0 0 0 0 0
+
+Insanlarin atagi : 198000
+Insanlarin defansi : 162000
+
+
+
+
+
+
+Asil vurulacak hasar: 0
+
+
+**************ORGLAR SALDIRDI*******************
+
+piyadeler :  1000 27 5 46 8
+okcular :  1000 36 10 23 34
+suvariler :  1000 45 7 35 52
+kusatma_makineleri :  1000 90 0 58 36
+ :  0 0 0 0 0
+
+
+*************TUR BITTI**************
+
+******************INSANLARIN SIRASI**************
+piyadeler :  1000 24 5 41 8
+okcular :  1000 32 10 20 34
+suvariler :  1000 40 7 31 52
+kusatma_makineleri :  1000 81 0 52 36
+ :  0 0 0 0 0
+
+Insanlarin atagi : 177000
+Insanlarin defansi : 144000
+
+
+ork_dovusculeri :  0 36 8 19 0
+mizrakcilar :  1000 46 5 16 7
+varg_binicileri :  0 56 6 27 0
+troller :  1000 72 5 32 36
+ :  0 0 0 0 0
+
+Orklarin atagi : 118000
+Orklarin defansi : 48000
+
+
+
+
+Asil vurulacak hasar: 128999
+
+
+**************INSANLAR  SALDIRDI*******************
+
+ork_dovusculeri :  0 36 8 19 0
+mizrakcilar :  0 46 5 16 0
+varg_binicileri :  0 56 6 27 0
+troller :  0 72 5 32 0
+ :  0 0 0 0 0
+
+
+*************TUR BITTI**************
+
+******************ORGLARIN SIRASI**************
+ork_dovusculeri :  0 36 8 19 0
+mizrakcilar :  0 46 5 16 0
+varg_binicileri :  0 56 6 27 0
+troller :  0 72 5 32 0
+ :  0 0 0 0 0
+
+Orklarin atagi : 0
+Orklarin defansi : 0
+piyadeler :  1000 24 5 41 8
+okcular :  1000 32 10 20 34
+suvariler :  1000 40 7 31 52
+kusatma_makineleri :  1000 81 0 52 36
+ :  0 0 0 0 0
+
+Insanlarin atagi : 177000
+Insanlarin defansi : 144000
+
+
+
+
+
+Insanlar Kazandi !!!!!
